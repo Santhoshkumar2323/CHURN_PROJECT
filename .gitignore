@@ -1,0 +1,16 @@
+deep_clean.py
+fix_python.py
+data/
+models/
+venv/
+.venv/
+restore_json.py
+__pycache__/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
