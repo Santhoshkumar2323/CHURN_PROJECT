@@ -1,9 +1,11 @@
 Customer Churn Prediction System:
 
 What this project is?
+
 This is an end-to-end customer churn risk system that goes beyond prediction accuracy and focuses on decision usefulness.
 
 It combines:
+
 Data pipeline,
 a preprocessing layer,
 a supervised ML model,
@@ -12,6 +14,7 @@ explainability and reporting,
 an interactive Streamlit presentation.
 
 What problem it solves
+
 In real businesses, churn models fail when:
 preprocessing breaks,
 predictions lack explanation,
@@ -19,7 +22,9 @@ outputs don’t translate into actions
 This project stress test those failure points.
 
 System architecture:
+
 The system is split into six clear stages:
+
 1. Data ingestion:
 Raw dataset is downloaded and saved, 
 Train/Test split is done before any analysis,
