@@ -1,5 +1,6 @@
-Customer Churn Prediction System
-What this project is
+Customer Churn Prediction System:
+
+What this project is?
 This is an end-to-end customer churn risk system that goes beyond prediction accuracy and focuses on decision usefulness.
 
 It combines:
